@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Thanazia 👋</h1>
+<h1 align="center">Hi, I'm Thanzia 👋</h1>
 <h3 align="center">Full-Stack Developer • JavaScript Ecosystem • Always Learning & Building</h3>
 
 <p align="center">
