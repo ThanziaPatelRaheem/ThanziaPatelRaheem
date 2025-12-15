@@ -26,7 +26,7 @@ my problem-solving and development skills.
 JavaScript · React · Node.js · Express · MongoDB · REST APIs  
 
 ### **Frontend**
-React · React Router · Vite · Context API · Tailwind CSS · HTML · CSS  
+React · React Router · Vite · Context API  · HTML · CSS  
 
 ### **Backend**
 Node.js · Express · MongoDB · Mongoose  
