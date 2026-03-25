@@ -56,19 +56,19 @@ A real-world full-stack application with:
 
 ### 🌤 Weather Forecast App  
 Shows real-time weather based on city search.  
-🔗 https://github.com/ThanziaPatelRaheem/weather-forecast-app  
+🔗 https://github.com/ThanziaPatelRaheem/weather-forecast-app target="_blank" rel="noopener noreferrer" 
 
 ---
 
 ### 🔢 JavaScript Calculator  
 Simple and clean calculator built with JS.  
-🔗 https://github.com/ThanziaPatelRaheem/basic-calculator  
+🔗 https://github.com/ThanziaPatelRaheem/basic-calculator target="_blank" rel="noopener noreferrer"   
 
 ---
 
 ### ✨ Quote Generator  
 Displays random motivational quotes.  
-🔗 https://github.com/ThanziaPatelRaheem/quote-generator  
+🔗 https://github.com/ThanziaPatelRaheem/quote-generator target="_blank" rel="noopener noreferrer"  
 
 ---
 
