@@ -50,7 +50,7 @@ A real-world full-stack application with:
 ✔ Admin dashboard  
 ✔ Clean, responsive UI  
 
-🔗 *(Repo link coming soon)*
+🔗 <a href="https://grocerly-flax.vercel.app/" target="_blank" rel="noopener noreferrer ">View Project</a>
 
 ---
 
